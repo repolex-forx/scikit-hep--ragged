@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/ragged/commit/14d45af4b9b086aae736f2ce7426502eaf6bdcfa",
       "git:hexsha": "14d45af4b9b086aae736f2ce7426502eaf6bdcfa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/ragged/commit/107121733ff9d61f6d863843c65890214935fb72",
