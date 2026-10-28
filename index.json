@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "ragged",
+  "versions": [
+    {
+      "commit": "14d45af4b9b086aae736f2ce7426502eaf6bdcfa",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:25:14.357766+00:00"
+    }
+  ]
+}
